@@ -1,0 +1,196 @@
+/*
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* CSS Document */
+/**/
+*{margin: 0;
+            padding: 0;
+            
+         } 
+         header,nav,main,footer{
+            width: 960px;
+            margin: 0 auto;
+            padding: 50px;
+            /*section{
+            width: 800px;
+            height: 400px;
+            background-color; blue;
+            margin: auto;*/
+        } 
+         header{
+             height: 100px;
+             background-color: cadetblue;
+             color:aliceblue;
+             padding-top: 10px;
+             text-align: center;
+         }
+         
+        nav{
+            height: 40px;
+            background-color: azure
+            color:aquamarine
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+			margin:0px auto;
+        }
+        
+        }
+        
+       header{
+            height: 100px;
+            background-color: cadetblue;
+            color: ghostwhite;
+            text-align: center;
+           font-size: 36px;
+        
+        }
+           
+         nav ul li{
+            list-style: none;
+             display: inline-block;
+         }
+         nav ul li a{
+             text-decoration: none;
+             margin: 10 px;
+         }
+         nav ul li a: link{
+             background-color: azure;
+             padding:15px;
+             border-radius: 25px;
+             color:azure;
+         }
+         nav ul li a:visited{
+         }
+         nav ul li a:active{
+         }
+         nav ul li a: hover{
+             color: beige;
+             background-color: aliceblue;
+         }
+         nav ul li: hover{
+         }
+         
+           main{
+               /*height: 2000px;*/ 
+               height: auto;
+            background-color: powderblue;
+               padding-top: 30px auto;
+        } 
+        footer{
+            height: 50px; 
+            background-color: cadetblue;
+            /*height:200px;*/
+            color: aquamarine;
+            font-size: 20px;
+            text-align: center;
+        }
+        section{
+            height: auto;
+            background-color: cadetblue;
+            margin: 30px;
+            padding: 30px;
+            
+        }
+        h2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-family: Corbel;
+}
+         h2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-family: Corbel;
+}
+         h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-family: Corbel;
+}
+		section article article{
+            width: 600px; 
+            margin: 20px auto;
+            background-color: cadetblue;
+            padding: 20px;
+        }
+        
+        section article ul{
+            padding:16px;
+            padding left: 30px;
+            list-style-type:georgian;
+            
+        }
+         #viñeta{
+             list-style-image: url(cocaytomas.jpeg);
+         }
+         
+         
+        section article ol{
+            padding: 20px;
+            padding left:30px;
+            list-style-type:georgian;
+         }
+        main nav{
+            width: 500px;
+            height: 80px;
+            padding:30px;
+            text-align: center;
+            background-color:lavenderblush;
+            margin: 0 auto;
+        }
+        main nav a{
+            width: 60px;
+            height: 30px;
+            background-color:lightblue;
+            padding: 20px;
+            margin left: 10px;
+            margin right: 10px;
+            text-decoration: none; 
+            /*eliminr subrayado*/
+            border: 2px solid cadetblue ;
+            border-radius: 100px;
+        }
+        main nav a: hover{
+            background-color: aqua;
+            color: aquamarine;
+            border-color: antiquewhite;
+            border-width: 5px;
+            border-style: outset;
+            /*border-radius: 100%;*/
+            
+        }
+        main a{
+            text-decoration: none;
+        }
+        main a:visited{
+            text-decoration: none;
+            color:white;
+            
+        }
+        main a: link{
+            color: powderblue;
+            font-weight: bold;
+        }
+        main a: hover{ 
+            color:cadetblue
+            font-weiugth: bold;
+            
+        }
+         img{
+             width: 300px;
+             display:block;
+             margin: 0 auto;
+}
+
+
+body, header, h1;
+font-family: "Pacifico", cursive;
+
+}
